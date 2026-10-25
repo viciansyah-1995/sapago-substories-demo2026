@@ -23,7 +23,7 @@ Node.js diperlukan. Server memakai modul bawaan Node sehingga tidak perlu instal
 - Tombol konsultasi dan katalog membuka form demo. Submit memvalidasi nomor telepon dan nama usaha, lalu menampilkan konfirmasi lokal. Data tidak disimpan maupun dikirim ke backend client.
 - Website sumber menggunakan permintaan katalog melalui form yang berujung ke WhatsApp, bukan tautan PDF langsung. Clone mempertahankan tombol dan popup permintaan katalog dalam mode simulasi.
 - Link sosial, toko utama Substories, dan Google Maps tetap mengarah ke situs aslinya dan memerlukan internet saat diklik.
-- Situs tidak didaftarkan atau dipublikasikan ke hosting.
+- Deployment Vercel menyajikan `dist/` sebagai website statis. Konfigurasi tersedia di `vercel.json`; server Node lokal tidak dijalankan di Vercel.
 
 ## Widget Sapago
 
