@@ -1,0 +1,642 @@
+{
+  "source": "https://business.substories.co.id/",
+  "capturedAt": "2026-10-25T12:19:12.994Z",
+  "assets": [
+    {
+      "url": "https://fonts.googleapis.com/css?family=Jost:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CArapey:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CPT%20Sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i%7CRoboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",
+      "path": "assets/d4d9dbe991a6c966.css",
+      "bytes": 7414
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icon/favicon.ico",
+      "path": "assets/e2392e99c86d2f0a.ico",
+      "bytes": 37
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/TestimonialModal.DVJfVErF.css",
+      "path": "assets/b3dbd97854bf0675.css",
+      "bytes": 747
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/NavMenuV2.BOrkMNIL.css",
+      "path": "assets/64773af6b7530037.css",
+      "bytes": 898
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/PdpQuickViewModal.DXR8JnWj.css",
+      "path": "assets/4c0281001c31a605.css",
+      "bytes": 1670
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/Drawer.UdnDdj5w.css",
+      "path": "assets/2a0b673153dbcebe.css",
+      "bytes": 619
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/MegaMenuLink.C_04rMbs.css",
+      "path": "assets/eb26c6158c782cef.css",
+      "bytes": 100
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/_preview/style.CjDbvSuH.css",
+      "path": "assets/ae71b246feedb086.css",
+      "bytes": 120754
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/6915b8336489c7a4b9e4597a.png",
+      "path": "assets/07a20fe8c27f208d.webp",
+      "bytes": 3772
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a6b395c6b5e92ef81aa0a1.png",
+      "path": "assets/5b6276007df6009e.webp",
+      "bytes": 43018
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a1710e9a0c189e37655c74.png",
+      "path": "assets/f66735de50e0379f.webp",
+      "bytes": 1452
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a17110524b71526e409ca5.png",
+      "path": "assets/74ff0e751ded04e1.webp",
+      "bytes": 2346
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a171129a0c18e698655dcf.png",
+      "path": "assets/373df337136ec000.webp",
+      "bytes": 2510
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a17115753f15829ec438f6.png",
+      "path": "assets/60230b0681aef960.webp",
+      "bytes": 2318
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a17117524b7144f7409ee0.png",
+      "path": "assets/db971557cb3d704e.webp",
+      "bytes": 2042
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a17124524b7102e640a2d7.png",
+      "path": "assets/abc2195b2150e094.webp",
+      "bytes": 1472
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69a1712b524b719c5b40a548.png",
+      "path": "assets/4c38a151677198d1.webp",
+      "bytes": 1438
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9c4ed403b7c4df070386.png",
+      "path": "assets/153f01872145aebc.webp",
+      "bytes": 21298
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69523e01ee104768122168ea.png",
+      "path": "assets/1480dfd834329338.webp",
+      "bytes": 34960
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9d49b34b64ca60a03be3.png",
+      "path": "assets/bbb16e6b9e82ef07.webp",
+      "bytes": 7278
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9d49d403b76e62072991.png",
+      "path": "assets/8af2d0fa1a34faaf.webp",
+      "bytes": 10242
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9d49439b6b6f515ec21d.png",
+      "path": "assets/ed2369cb53cbf35c.webp",
+      "bytes": 10870
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9d49d403b70c97072990.png",
+      "path": "assets/458ef4c4e27b2ee1.webp",
+      "bytes": 11802
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/6977390829dcf5d31877604b.jpg",
+      "path": "assets/164e255e49564bf0.webp",
+      "bytes": 48446
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69773913c1fa0c5a27b7d3a2.jpg",
+      "path": "assets/b798c665fa549189.webp",
+      "bytes": 21280
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/6977390cc1fa0c30c4b7d2a0.jpg",
+      "path": "assets/d2995af8ce386795.webp",
+      "bytes": 41696
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/6977390dd4fb900aacfdb8e1.jpg",
+      "path": "assets/1b6be4aefa4a1690.webp",
+      "bytes": 46274
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/6977390f29dcf5c7ba776184.jpg",
+      "path": "assets/56fedc36cdf779fd.webp",
+      "bytes": 27674
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69773911a87beb53fff8d97a.jpg",
+      "path": "assets/4ff285598283cf2a.webp",
+      "bytes": 12850
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69773904d4fb900192fdb781.jpg",
+      "path": "assets/43b7aa2731332474.webp",
+      "bytes": 30164
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/6977390aeb392b969477f861.jpg",
+      "path": "assets/4f552b2e664df247.webp",
+      "bytes": 35430
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/6a17f6598c6ee94929ad81ba.jpg",
+      "path": "assets/ce502ef6c42cfe83.webp",
+      "bytes": 34738
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69783c10a87beb0eda2e2869.png",
+      "path": "assets/3317ee13b462277e.webp",
+      "bytes": 73022
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69783c12c1fa0c51f1ecbe2d.png",
+      "path": "assets/53a4267408d21a8d.webp",
+      "bytes": 81384
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69783c13a87beb81cf2e2925.png",
+      "path": "assets/11704f0855f4e5b4.webp",
+      "bytes": 53842
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69783c1429dcf59a00aaa53b.png",
+      "path": "assets/cf3cb36bb98fa41b.webp",
+      "bytes": 98438
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/6a17f6598c6ee94929ad81b9.jpg",
+      "path": "assets/f44a494cd4e3edc6.webp",
+      "bytes": 38384
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/695b63db535307cc5d7dcfa4.png",
+      "path": "assets/16c5c06b8364de32.webp",
+      "bytes": 23556
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/695b63df3ccdd6e52d18849f.png",
+      "path": "assets/ebacc66d9424c977.webp",
+      "bytes": 39436
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/695b63df53530798e77dcfd3.png",
+      "path": "assets/80239246338d26b2.webp",
+      "bytes": 22862
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9a0b439b6ba1bb5e3b65.png",
+      "path": "assets/1b876953b2eeb34d.webp",
+      "bytes": 48684
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69539ee2035c3a0c68d668be.png",
+      "path": "assets/f42dff5b32e33370.webp",
+      "bytes": 4164
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/location%2F2o81UT6IaGFzTq4Dhp2l%2Fimages%2FcQzVqbM7GR9qo5Zh0lqb%2FChIJBWrrSZzwaS4R-ZSVjPU5bO4%2Fmap-Uudd6x6Wji.jpg?alt=media&v=1579928",
+      "path": "assets/2860c993c89b6632.webp",
+      "bytes": 82848
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icons/square/instagram-square.svg",
+      "path": "assets/05e5f56634a119a3.svg",
+      "bytes": 3200
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icons/square/website-square.svg",
+      "path": "assets/ea08bd408bfad178.svg",
+      "bytes": 1063
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icons/square/tiktok-square.svg",
+      "path": "assets/7d343c50dd39709f.svg",
+      "bytes": 566
+    },
+    {
+      "url": "https://storage.googleapis.com/msgsndr/Oor9dqxgRNZ89yGwPFKj/media/68ff2718a6ad638302de7200.png",
+      "path": "assets/aaaefd39019d9c0d.png",
+      "bytes": 5051
+    },
+    {
+      "url": "https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/69782710a87bebda4a29937c.png",
+      "path": "assets/709dff5b8417d1c6.png",
+      "bytes": 1061
+    },
+    {
+      "url": "https://storage.googleapis.com/msgsndr/2o81UT6IaGFzTq4Dhp2l/media/697828a829dcf5f935a63a8c.png",
+      "path": "assets/d279be8bdfdd1c5c.png",
+      "bytes": 1065
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/6952556073a5e007708f7518.png",
+      "path": "assets/7a5ea66e8e6a2385.webp",
+      "bytes": 25824
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69523b0073a5e01f538b9637.png",
+      "path": "assets/1b8366e55d61d38e.webp",
+      "bytes": 44722
+    },
+    {
+      "url": "https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/69523b0073a5e01f538b9637.png",
+      "path": "assets/d9042b6ebbc9c54a.png",
+      "bytes": 83445
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/698593b72dd98571976ca1b5.jpg",
+      "path": "assets/1a3575ebbcc4a16e.webp",
+      "bytes": 10394
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696da969e125ef066c23e431.png",
+      "path": "assets/05454c4ae8359c57.webp",
+      "bytes": 37304
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9e064e42b93646c980ae.png",
+      "path": "assets/8a2a1ce851ccc4ee.webp",
+      "bytes": 13580
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9e06d403b74f55074268.png",
+      "path": "assets/94e9656868991014.webp",
+      "bytes": 13058
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696da9694e42b9e971cb8b32.png",
+      "path": "assets/1723ff07da0e7072.webp",
+      "bytes": 12954
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696da9694e42b9aa67cb8b33.png",
+      "path": "assets/105291fd7aa2fa9e.webp",
+      "bytes": 42952
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696d9e064e42b9a623c980ad.png",
+      "path": "assets/0ab67091b91bc514.webp",
+      "bytes": 14306
+    },
+    {
+      "url": "https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696db3b7d403b76df20ac246.png",
+      "path": "assets/c4ce88768bef7282.png",
+      "bytes": 29395
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696de13bd403b7d0fc11b0d3.png",
+      "path": "assets/67e80d242a32bef4.webp",
+      "bytes": 44432
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/696daf18b34b64d2ada33466.png",
+      "path": "assets/ff4edcb3d93b0e7a.webp",
+      "bytes": 7802
+    },
+    {
+      "url": "https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/695242d973a5e047e78c45d9.png",
+      "path": "assets/3bff1e5436918dbe.png",
+      "bytes": 83719
+    },
+    {
+      "url": "https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/695245e2e889d327e0d2c93d.png",
+      "path": "assets/fbd6e22365bf0e86.png",
+      "bytes": 141897
+    },
+    {
+      "url": "https://assets.cdn.filesafe.space/2o81UT6IaGFzTq4Dhp2l/media/6952466973a5e011b08ca504.png",
+      "path": "assets/b94855f615630b44.png",
+      "bytes": 1749638
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/intl-tel-input/17.0.12/img/flags.png",
+      "path": "assets/957a320c3f312eef.png",
+      "bytes": 67645
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/intl-tel-input/17.0.12/img/flags@2x.png",
+      "path": "assets/ea71c38c134ac30a.png",
+      "bytes": 166130
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.eot",
+      "path": "assets/a7b73291ceaa07fe.bin",
+      "bytes": 34034
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.eot?#iefix",
+      "path": "assets/95b53a91689a293b.bin",
+      "bytes": 34034
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.woff2",
+      "path": "assets/37ef3f9af9ba401a.woff2",
+      "bytes": 13224
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.woff",
+      "path": "assets/e42b399a20e1f3ef.woff",
+      "bytes": 16276
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.ttf",
+      "path": "assets/54af0504c13f4368.ttf",
+      "bytes": 33736
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-regular-400.svg#fontawesome",
+      "path": "assets/7b9047e9d3395da8.svg",
+      "bytes": 144714
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.eot",
+      "path": "assets/d4d19e00fbc447e5.bin",
+      "bytes": 203030
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.eot?#iefix",
+      "path": "assets/b1e76bc8cc11014a.bin",
+      "bytes": 203030
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.woff2",
+      "path": "assets/0debffa460f92dcd.woff2",
+      "bytes": 78268
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.woff",
+      "path": "assets/674a9bea3aa894bc.woff",
+      "bytes": 101648
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.ttf",
+      "path": "assets/b84322bfd2fa29e0.ttf",
+      "bytes": 202744
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-solid-900.svg#fontawesome",
+      "path": "assets/5e84d9801500586a.svg",
+      "bytes": 918991
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.eot",
+      "path": "assets/1ac8e47866d67b05.bin",
+      "bytes": 134294
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.eot?#iefix",
+      "path": "assets/6673045caf5bd324.bin",
+      "bytes": 134294
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.woff2",
+      "path": "assets/4cc6d35eeb215f6c.woff2",
+      "bytes": 76736
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.woff",
+      "path": "assets/63d681932d7ef9b5.woff",
+      "bytes": 89988
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.ttf",
+      "path": "assets/a9cdbabc66fd7207.ttf",
+      "bytes": 133988
+    },
+    {
+      "url": "https://stcdn.leadconnectorhq.com/funnel/fontawesome/webfonts/fa-brands-400.svg#fontawesome",
+      "path": "assets/7f3281fe5727505f.svg",
+      "bytes": 747927
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/arapey/v17/-W_9XJn-UDDA2RCKZeofTkM.ttf",
+      "path": "assets/06a59b6531a2828b.ttf",
+      "bytes": 23184
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RCKYNoY.ttf",
+      "path": "assets/a68a86c589025fe0.ttf",
+      "bytes": 21376
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0EBIokmw.ttf",
+      "path": "assets/b2b9e2dc6fb5aba9.ttf",
+      "bytes": 26952
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmw.ttf",
+      "path": "assets/ed2308c723f92e72.ttf",
+      "bytes": 27104
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf",
+      "path": "assets/0fb3a819890a2ffc.ttf",
+      "bytes": 27140
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf",
+      "path": "assets/50b27d901d95f465.ttf",
+      "bytes": 27064
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf",
+      "path": "assets/bdd51825f770e960.ttf",
+      "bytes": 27172
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf",
+      "path": "assets/5f51eedd460bb674.ttf",
+      "bytes": 27168
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf",
+      "path": "assets/6abb8de2617813f2.ttf",
+      "bytes": 27064
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmw.ttf",
+      "path": "assets/de61ce47bede5773.ttf",
+      "bytes": 27164
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmw.ttf",
+      "path": "assets/98a6e18eb144e650.ttf",
+      "bytes": 27116
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJDVBNI0.ttf",
+      "path": "assets/0bf0293d0c806d16.ttf",
+      "bytes": 25540
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI0.ttf",
+      "path": "assets/01ce2bd428508fd5.ttf",
+      "bytes": 25616
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf",
+      "path": "assets/63a86fc6be8cbecc.ttf",
+      "bytes": 25556
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf",
+      "path": "assets/3b83c6d462f09a38.ttf",
+      "bytes": 25472
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf",
+      "path": "assets/10c245e82e17c727.ttf",
+      "bytes": 25560
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf",
+      "path": "assets/7dba0b41e8622e86.ttf",
+      "bytes": 25576
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf",
+      "path": "assets/f1a96aded1ed51a2.ttf",
+      "bytes": 25516
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI0.ttf",
+      "path": "assets/d5e2ec2e6ea263bc.ttf",
+      "bytes": 25628
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/jost/v20/92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI0.ttf",
+      "path": "assets/9b9d1774447b6ed4.ttf",
+      "bytes": 25596
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizYRExUiTo99u79D0e0x8mN.ttf",
+      "path": "assets/3ec53d8b517c2ee7.ttf",
+      "bytes": 93568
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizdRExUiTo99u79D0e8fOydLxUY.ttf",
+      "path": "assets/cad5d9a7192df74c.ttf",
+      "bytes": 70740
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0KEwA.ttf",
+      "path": "assets/33074f4e5543d6b0.ttf",
+      "bytes": 97896
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0O6tKA.ttf",
+      "path": "assets/ba28235ab037b669.ttf",
+      "bytes": 101216
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf",
+      "path": "assets/def8cea2b3d1f937.ttf",
+      "bytes": 45952
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf",
+      "path": "assets/5da69473dd9a7b5e.ttf",
+      "bytes": 46164
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf",
+      "path": "assets/a44854ad440b070e.ttf",
+      "bytes": 46220
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf",
+      "path": "assets/57840d188d076ff0.ttf",
+      "bytes": 46152
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf",
+      "path": "assets/3c93c68b7b1962bb.ttf",
+      "bytes": 46324
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf",
+      "path": "assets/8b5dd3c6f579c93f.ttf",
+      "bytes": 46444
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf",
+      "path": "assets/a94867f6c4f07af0.ttf",
+      "bytes": 46392
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf",
+      "path": "assets/d8b35333e951b9e2.ttf",
+      "bytes": 46516
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf",
+      "path": "assets/1d93757d4ae55157.ttf",
+      "bytes": 46556
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf",
+      "path": "assets/fa6d7d8703e6f432.ttf",
+      "bytes": 44744
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf",
+      "path": "assets/8ebef1be9847e12d.ttf",
+      "bytes": 44820
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf",
+      "path": "assets/212ed85bd6e1de21.ttf",
+      "bytes": 44792
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+      "path": "assets/98b910f0208e132f.ttf",
+      "bytes": 44724
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf",
+      "path": "assets/3001ffbd8d2d6b85.ttf",
+      "bytes": 44796
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf",
+      "path": "assets/c44a41dc0c1c25a0.ttf",
+      "bytes": 44900
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf",
+      "path": "assets/a0ab9869bed1d244.ttf",
+      "bytes": 44864
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf",
+      "path": "assets/5b3d973cf49707b8.ttf",
+      "bytes": 44964
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf",
+      "path": "assets/c961e282dd6d8743.ttf",
+      "bytes": 44948
+    }
+  ],
+  "failures": []
+}

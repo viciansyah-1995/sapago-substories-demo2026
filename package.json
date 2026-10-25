@@ -1,0 +1,17 @@
+{
+  "name": "sapago-x-substories-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clone lokal website business.substories.co.id untuk demo Sapago",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/server.mjs",
+    "dev": "node scripts/server.mjs",
+    "mirror": "node scripts/mirror.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "playwright": "^1.64.1"
+  }
+}

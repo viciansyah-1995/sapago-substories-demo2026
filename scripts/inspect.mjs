@@ -1,0 +1,18 @@
+import { chromium } from 'playwright';
+import fs from 'node:fs';
+import {load} from 'cheerio';
+const $=load(fs.readFileSync('source/original.html','utf8'));
+console.log('styles',$('style').length,'sections',$('.c-section').length,'carousels',$('.carousel').length);
+console.log('carousels',$('[class*=carousel]').slice(0,12).map((i,e)=>({tag:e.name,cls:$(e).attr('class'),style:$(e).attr('style')})).get());
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1000}});
+await page.goto('https://business.substories.co.id/',{waitUntil:'networkidle',timeout:60000}).catch(e=>console.log(e.message));
+await page.screenshot({path:'qa/original-desktop.png',fullPage:true});
+console.log('page',await page.title());
+console.log('buttons',await page.locator('button').allTextContents());
+await page.locator('#button-0EFuotkRmbS_btn').click();await page.waitForTimeout(1500);
+console.log('popup',await page.locator('input').evaluateAll(es=>es.map(e=>({type:e.type,placeholder:e.placeholder,name:e.name}))));
+console.log('iframes',await page.locator('iframe').evaluateAll(es=>es.map(e=>e.src)));
+await page.screenshot({path:'qa/original-popup.png'});
+fs.writeFileSync('qa/original-rendered.html',await page.content());
+await browser.close();

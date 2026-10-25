@@ -1,0 +1,312 @@
+@font-face {
+  font-family: 'Arapey';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/06a59b6531a2828b.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Arapey';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/a68a86c589025fe0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url("/assets/b2b9e2dc6fb5aba9.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/assets/ed2308c723f92e72.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/assets/0fb3a819890a2ffc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/50b27d901d95f465.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/assets/bdd51825f770e960.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/5f51eedd460bb674.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/6abb8de2617813f2.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/assets/de61ce47bede5773.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/assets/98a6e18eb144e650.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("/assets/0bf0293d0c806d16.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/assets/01ce2bd428508fd5.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/assets/63a86fc6be8cbecc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/3b83c6d462f09a38.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/assets/10c245e82e17c727.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/7dba0b41e8622e86.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/f1a96aded1ed51a2.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/assets/d5e2ec2e6ea263bc.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/assets/9b9d1774447b6ed4.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/3ec53d8b517c2ee7.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/cad5d9a7192df74c.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/33074f4e5543d6b0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/ba28235ab037b669.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/def8cea2b3d1f937.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 200;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/5da69473dd9a7b5e.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/a44854ad440b070e.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/57840d188d076ff0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/3c93c68b7b1962bb.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/8b5dd3c6f579c93f.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/a94867f6c4f07af0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/d8b35333e951b9e2.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/1d93757d4ae55157.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/fa6d7d8703e6f432.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 200;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/8ebef1be9847e12d.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/212ed85bd6e1de21.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/98b910f0208e132f.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/3001ffbd8d2d6b85.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/c44a41dc0c1c25a0.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/a0ab9869bed1d244.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/5b3d973cf49707b8.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-stretch: normal;
+  font-display: swap;
+  src: url("/assets/c961e282dd6d8743.ttf") format('truetype');
+}

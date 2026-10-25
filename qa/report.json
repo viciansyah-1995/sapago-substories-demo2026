@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-25T12:19:16.367Z",
+  "sections": 16,
+  "assets": 127,
+  "checked": [
+    "desktop rendering",
+    "mobile rendering",
+    "offline assets",
+    "no external requests",
+    "FAQ mouse and keyboard",
+    "image carousel",
+    "consultation form and success",
+    "catalog popup",
+    "Sapago integration placeholder",
+    "mobile menu",
+    "horizontal overflow"
+  ],
+  "errors": [],
+  "badResponses": [],
+  "external": []
+}
