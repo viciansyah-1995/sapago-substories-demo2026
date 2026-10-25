@@ -27,11 +27,11 @@ Node.js diperlukan. Server memakai modul bawaan Node sehingga tidak perlu instal
 
 ## Widget Sapago
 
-Tempat pemasangan widget sudah disiapkan. Isi `publicKey` di `dist/sapago.config.js` dengan public widget key **khusus Substories**:
+Widget resmi Sapago khusus Substories sudah diaktifkan melalui `dist/sapago.config.js`:
 
 ```js
 window.SAPAGO_CONFIG = {
-  publicKey: 'ISI_PUBLIC_WIDGET_KEY_SUBSTORIES',
+  publicKey: 'lc_pk_S5TVST9zc6xP5PFp62-j1fHkgrTHnCzx',
   scriptUrl: 'https://sapago.id/livechat/widget.js',
   apiUrl: 'https://api.talky.id/v1/public/livechat',
   widgetUrl: 'https://sapago.id/livechat/widget'
@@ -40,7 +40,7 @@ window.SAPAGO_CONFIG = {
 
 Sesuaikan URL jika script embed resmi Substories berbeda. Refresh browser setelah mengubah konfigurasi. Loader memasang script resmi dengan atribut `data-api-key`, `data-api-url`, dan `data-widget-url`. Widget resmi membutuhkan internet dan konfigurasi domain yang mengizinkan localhost.
 
-Saat key kosong, tombol Sapago menampilkan informasi bahwa widget menunggu aktivasi. Tombol ini bukan chatbot AI. Public key dari client lain tidak digunakan.
+Jika konfigurasi key dikosongkan, tombol Sapago menampilkan informasi bahwa widget menunggu aktivasi. Tombol ini bukan chatbot AI. Public key dari client lain tidak digunakan.
 
 ## Struktur
 
@@ -61,7 +61,7 @@ npm start
 npm run check
 ```
 
-Pemeriksaan memblokir jaringan eksternal untuk memastikan aset halaman benar-benar lokal, lalu memeriksa gambar, FAQ, galeri, form, status widget, dan menu mobile. Hasil disimpan di `qa/report.json`.
+Pemeriksaan menonaktifkan widget hanya dalam sesi pengujian dan memblokir jaringan eksternal untuk memastikan aset halaman benar-benar lokal, lalu memeriksa gambar, FAQ, galeri, form, status widget, dan menu mobile. Hasil disimpan di `qa/report.json`.
 
 `npm run mirror` membangun ulang HTML dari snapshot sumber dan aset publik. Konfigurasi widget serta `demo.js`/`demo.css` tetap tersimpan. CSS sumber yang memiliki host/URL gambar salah ketik telah diperbaiki saat proses mirror.
 

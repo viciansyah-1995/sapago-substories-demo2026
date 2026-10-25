@@ -7,7 +7,8 @@ try{
  const page=await browser.newPage({viewport:{width:1440,height:1000}});
  page.on('pageerror',e=>errors.push(e.message));
  page.on('response',r=>{if(r.status()>=400)badResponses.push([r.status(),r.url()]);});
- await page.route('**/*',route=>{if(!route.request().url().startsWith('http://localhost:4173/')){external.push(route.request().url());route.abort();}else route.continue();});
+ // Keep the static clone check independent from the live widget service.
+ await page.route('**/*',route=>{if(route.request().url().endsWith('/sapago.config.js'))return route.fulfill({contentType:'application/javascript',body:'window.SAPAGO_CONFIG = {};'});if(!route.request().url().startsWith('http://localhost:4173/')){external.push(route.request().url());route.abort();}else route.continue();});
  await page.goto('http://localhost:4173/',{waitUntil:'networkidle'});await page.evaluate(()=>document.fonts.ready);
  console.log('Checking desktop and local assets');
  assert.equal(await page.title(),'Sapago x Substories Demo');
